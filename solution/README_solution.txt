@@ -1,0 +1,1 @@
+Reference solution for owner_index(): compute SHA-256(key), convert the digest to an integer, and return modulo len(NODES). Use the same code and node-list order on all nodes. Provide this only after students attempt Part 2.\n
